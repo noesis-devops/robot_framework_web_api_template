@@ -1,0 +1,16 @@
+{
+    "fields": {
+        "project": {
+            "id": "10020",
+            "key": "ESOW"
+        },
+        "summary": "Robot Framework API Test Execution on 04/10/2024 13:12:58",
+        "issuetype": {
+            "id": "10045"
+        },
+        "description": "ESOW-149"
+    },
+    "xrayFields": {
+        "testPlanKey": "ESOW-149"
+    }
+}

@@ -1,0 +1,10 @@
+robotframework==7.0.1
+robotframework-pabot==2.18.0
+robotframework-robocop==5.3.0
+robotframework-seleniumlibrary==6.3.0
+selenium==4.20.0
+setuptools==73.0.1
+webdriver-manager==4.0.2
+robotframework-requests==0.9.7
+robotframework-jsonlibrary==0.5
+robotframework-faker==5.0.0
