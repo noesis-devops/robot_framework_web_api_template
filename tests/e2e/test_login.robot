@@ -22,15 +22,5 @@ Test Login
     Input Password In The Login Page    ${LOGIN_PASSWORD}
     Click Submit In Login Page
 
-Test Login Test
-    [Documentation]    Valid Login
-
-    [Tags]    login    sanity
-    
-    Open The Login Page
-    Input Username In The Login Page    ${LOGIN_USERNAME}
-    Input Password In The Login Page    ${LOGIN_PASSWORD}
-    Click Submit In Login Page
-    
 
 
